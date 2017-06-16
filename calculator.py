@@ -15,6 +15,7 @@ cosine: cos(rad)
 tangent: tan(rad)
 square root: sqrt(n)
 pi: 3.141......
+asdf34i
 """
 
 import math
